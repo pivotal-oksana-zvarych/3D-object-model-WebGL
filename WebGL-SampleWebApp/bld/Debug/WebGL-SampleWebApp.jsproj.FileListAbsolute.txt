@@ -1,0 +1,15 @@
+c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\bin\Debug\ReverseMap\resources.pri
+c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\bin\Debug\AppxManifest.xml
+c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\bin\Debug\WebGL-SampleWebApp.build.appxrecipe
+c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\bld\Debug\priconfig.xml
+c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\bld\Debug\priconfig.xml.intermediate
+c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\bld\Debug\layout.resfiles
+c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\bld\Debug\layout.resfiles.intermediate
+c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\bld\Debug\resources.resfiles
+c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\bld\Debug\resources.resfiles.intermediate
+c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\bld\Debug\pri.resfiles
+c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\bld\Debug\pri.resfiles.intermediate
+c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\bld\Debug\qualifiers.txt
+c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\bld\Debug\qualifiers.txt.intermediate
+c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\bld\Debug\ProjectArchitectures.txt

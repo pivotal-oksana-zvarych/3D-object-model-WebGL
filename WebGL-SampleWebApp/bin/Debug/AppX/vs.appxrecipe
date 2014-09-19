@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WX004</Machine>
+    <WindowsUser>XL</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c3acf202-7d5a-40ee-be57-14dd34ca7619</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>BDF9C69EFF817C79D05F9AFA6EAD93BE073F5F8D0BD214097C5543F5F8C94506</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c3acf202-7d5a-40ee-be57-14dd34ca7619_1.0.0.0_neutral__kyf8v5r2gkdsp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c3acf202-7d5a-40ee-be57-14dd34ca7619_kyf8v5r2gkdsp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c3acf202-7d5a-40ee-be57-14dd34ca7619</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=XL</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-19T16:06:18.172</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2014-09-19T15:50:05.648</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T20:26:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T20:26:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T20:26:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T20:26:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2014-09-19T16:06:16.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\js\diamond.js">
+      <PackagePath>js\diamond.js</PackagePath>
+      <Modified>2014-09-19T16:15:29.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\js\glMatrix-0.9.5.min.js">
+      <PackagePath>js\glMatrix-0.9.5.min.js</PackagePath>
+      <Modified>2014-09-18T21:42:49.814</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\js\webgl-utils.js">
+      <PackagePath>js\webgl-utils.js</PackagePath>
+      <Modified>2014-09-19T14:48:10.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2014-09-19T14:35:56.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\xl\documents\visual studio 2013\Projects\WebGL-SampleWebApp\WebGL-SampleWebApp\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-09-19T16:06:18.046</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
